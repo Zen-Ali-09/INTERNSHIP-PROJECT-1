@@ -11,7 +11,7 @@ A simple and practical To-Do List Application built with Python. Stay organized 
 
 ## Getting Started
 
-1. Clone the repository: `git clone (https://github.com/Varnithvarma/ToDoList-Python)`
+1. Clone the repository: `git clone (https://github.com/Zen-Ali-09/INTERNSHIP-PROJECT-1.git)`
 2. Run the application: `python main.py`
 
 ## How to Use
